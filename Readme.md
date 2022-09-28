@@ -1,0 +1,2 @@
+A basic python application built using Flask framework that lets the user guess an integer by typing it directly in the
+link, and the server responds whether the guess is too high, too low, or the correct guess.
